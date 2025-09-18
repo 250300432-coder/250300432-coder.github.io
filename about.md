@@ -1,13 +1,14 @@
 ---
 layout: page
-title: About
+title: 
 ---
 
 <p class="message">
   Hola, esta es una pequeña página de desahogo en relación a el taller de computación.
 </p>
 
-Celeste is a lightweight Jekyll theme that features a minimalist, content-first design. It places your content center stage and lets your readers view them in a clutter-free environment without visual distractions. It is based on [Poole](https://github.com/poole/poole), the Jekyll butler, by [@mdo](https://twitter.com/mdo).
+Hablaré sobre el parcial. En este me dio un dolooor de cabeza porque, honestamente no sé mucho de computación. GitHub fue mi tortura, no sabía que existía una app que, auqnue aprenas te hace querer llorar.
+
 
 In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
 
