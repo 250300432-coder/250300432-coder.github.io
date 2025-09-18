@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Computación y yo
 ---
 
 <p class="message">
