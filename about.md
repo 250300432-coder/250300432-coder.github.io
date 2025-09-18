@@ -7,8 +7,8 @@ title:
   Hola, esta es una pequeña página de desahogo en relación a el taller de computación.
 </p>
 
-Hablaré sobre el parcial. En este me dio un dolooor de cabeza porque, honestamente no sé mucho de computación. GitHub fue mi tortura, no sabía que existía una app que, auqnue aprenas te hace querer llorar.
-
+Hablaré sobre el parcial. En este me dio un dolooor de cabeza porque, honestamente no sé mucho de computación. GitHub fue mi tortura, no sabía que existía una app que, aunque aprenas te hace querer llorar.
+Igual le agradezco al profe que tuvo la paciencia de soportar los miles y mis millones de "profe" al momento de una duda. 
 
 In addition to using Poole as its foundation, Celeste is also built using the following open-source projects:
 
