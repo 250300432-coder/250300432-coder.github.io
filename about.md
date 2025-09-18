@@ -12,6 +12,7 @@ Igual le agradezco al profe que tuvo la paciencia de soportar los miles y mis mi
 
 
 Esta fui yo mayormente en las clases: 
+
 ![ashbaby](ashbaby.gif)
 
 
