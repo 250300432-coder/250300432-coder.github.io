@@ -17,3 +17,4 @@ Silvana is <trying to class="fa fa-heart"></i> by [@nicoelayda](https://github.c
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/nicoelayda/celeste/issues/new) or [ask me on Twitter](https://twitter.com/nicoelayda).
 
 Thanks for reading!
+kjk
