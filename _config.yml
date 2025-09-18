@@ -1,6 +1,6 @@
 title:               MONITOS
 url:                 https://nicoelayda.github.io
-baseurl:             "yuuyuukk"
+baseurl:             ""
 
 markdown:            kramdown
 highlighter:         rouge
