@@ -11,10 +11,9 @@ Hablaré sobre el parcial. Este me dio un dolooor de cabeza porque honestamente 
 Igual le agradezco al profe que tuvo la paciencia de soportar los miles y mis millones de "profe" al momento de una duda. 
 
 
+Esta fui yo mayormente en las clases: 
+![ashbaby](ashbaby.gif)
 
-* [normalize.css](http://necolas.github.io/normalize.css/), a modern, HTML5-ready alternative to CSS resets.
-* [Font Awesome](https://fontawesome.com/v4.7.0/), the iconic font and CSS toolkit.
-* [Hover.css](http://ianlunn.github.io/Hover/), a collection of CSS3 powered hover effects.
 
 Celeste is <i class="fa fa-code"></i> with <i class="fa fa-heart"></i> by [@nicoelayda](https://github.com/nicoelayda). Learn more and contribute on [GitHub](https://github.com/nicoelayda/celeste).
 
