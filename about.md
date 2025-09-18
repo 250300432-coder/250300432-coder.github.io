@@ -16,4 +16,4 @@ Y bueno, creo que para terminar solo me gustaría presentarme. Presentar a la an
 Soy Silvana Alejandro, estudio NI en la Universidad del caribe y tengo 19 años. Nací el 30 de septiembre en Cancún (Benito J.) en pleno huracán casi, casi. Tengo 3 hermanos mayores, un gato, dos perritos y un cerdito. Los quiero mucho a todos.
 
 Ahora sí.
-## Gracias por leer!!
+## Gracias por leer!! >u<
